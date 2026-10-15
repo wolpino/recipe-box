@@ -1,9 +1,9 @@
 # Decision log
 
-Update this file whenever a decision changes. Add one line to the change history with the date. If a decision is Open and blocks your work, use its default, record the assumption in your PR, and keep going.
+Update whenever a decision changes; add a line to the change history. If an Open decision blocks you, use its default, record the assumption in your PR, and keep going.
 
 | ID | Decision | Status | Default if still unanswered |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | D1 | Web app first, installable, no app-store apps in v1 | Decided | n/a |
 | D2 | Front-on Box View in v1; perspective Fan later | Decided | n/a |
 | D3 | Vite + React single-page app, edge-rendered share pages | Proposed | Use it |
@@ -14,7 +14,7 @@ Update this file whenever a decision changes. Add one line to the change history
 | D8 | Monetization | Open | No payments; everything free |
 | D9 | Full social features (follow, comment) vs shared collections | Open | Neither until feeds are scheduled |
 | D10 | Tablet-specific layout | Open | None; desktop shows a centered box |
-| D11 | Product name and branding | Open | Use "Recipe Box" as a placeholder string in one constants file |
+| D11 | Product name and branding | Open | Use “Recipe Box” as a placeholder string in one constants file |
 
 ## Change history
 - 2026-10-14: initial log from the planning documents.
